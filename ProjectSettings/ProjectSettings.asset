@@ -135,10 +135,7 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 0.2
-  preloadedAssets:
-  - {fileID: 4800000, guid: c9f956787b1d945e7b36e0516201fc76, type: 3}
-  - {fileID: 11400000, guid: 5c65067f8390b084f86f7ef00c0c2162, type: 2}
-  - {fileID: -6999102449213002453, guid: dc3a803f78847ff4f951006aaadc3d79, type: 2}
+  preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -157,6 +154,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.MatthieuP.epsi_mspr4
+    Standalone: com.MatthieuP.epsimspr4
   buildNumber:
     Standalone: 0
     iPhone: 0
